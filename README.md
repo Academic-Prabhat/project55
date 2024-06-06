@@ -1,3 +1,3 @@
 # Created by ASTI ACADMEY
 
-Welcome to ASTI ACADEMY
+Welcome to ASTI ACADEMY.
